@@ -1,1 +1,4 @@
-# CSU_CSC320_Java
+# CSU_CSC320 Java Programming I
+
+Print Statements
+Scanner Class
