@@ -1,3 +1,6 @@
+// Project purpose: Develop program that prompts user for weeks 1-4 grocery bill, then provides avg. bill for the month. 
+// Provide 10% discount if exactly $50 spent and 20% discount if exactly $100 spent.
+
 import java.util.Scanner;
 
 public class CTA2 {
