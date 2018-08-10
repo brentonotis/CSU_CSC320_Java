@@ -1,3 +1,5 @@
+// Project purpose: Utilize loop to develop program that prompts user for 5 floating point values then outputs avg., min and max values.
+
 import java.util.Arrays;
 import java.util.Scanner;
 
