@@ -2,5 +2,5 @@
 
 * Print Statements
 * Scanner Class
-* Control Flow (if/else/switch)
-* Loops (for/while)
+* Control Flow (if/else/switch statements)
+* Control Flow (for/while loops)
