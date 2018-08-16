@@ -4,3 +4,4 @@
 * Scanner Class
 * Control Flow (if/else/switch statements)
 * Control Flow (for/while loops)
+* User Defined Methods
