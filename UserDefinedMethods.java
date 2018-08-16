@@ -1,3 +1,5 @@
+// Project Purpose: Develop program that prompts user for three string values and returns a singlue reversed/concatenated string
+
 import java.util.Scanner;
 
 public class CTA5 {
