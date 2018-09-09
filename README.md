@@ -5,3 +5,4 @@
 * Control Flow (if/else/switch statements)
 * Control Flow (for/while loops)
 * User Defined Methods
+* Array Manipulation
