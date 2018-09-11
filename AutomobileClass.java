@@ -7,7 +7,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 public class Automobile {    
-	private static String make;
+    private static String make;
     private static String model;
     private static String color;
     private static int year;
