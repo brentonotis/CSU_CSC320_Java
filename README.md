@@ -6,3 +6,4 @@
 * Control Flow (for/while loops)
 * User Defined Methods
 * Array Manipulation
+* Classes and I/O in OOP
