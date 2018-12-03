@@ -1,8 +1,7 @@
 /** 
   * Program that acts as vehicle inventory
   * Allows user to enter vehicle, remove vehicle, update vehicle, and/or print inventory to file
-  * Author: Brenton Otis
-*/
+  * Author: Brenton Otis */
 
 import java.util.ArrayList;
 import java.util.Iterator;
